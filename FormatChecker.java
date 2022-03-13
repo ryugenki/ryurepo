@@ -16,7 +16,11 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.yaml.snakeyaml.Yaml;
 
-
+@Override
+public List<String> formatCheck(JSONObject json) throws Exception{
+	// TODO Auto-generated method stub
+	return null;
+}
 public class FormatChecker {
 	private static Map<String, String> checkClassMaster = null;
 	
