@@ -2,7 +2,7 @@ import java.nio.charset.Charset;
 import java.nio.charset.CharsetEncoder;
 import java.util.HashMap;
 import java.util.Map;
-
+import java.io.*;
 /*
  * 下記3点の対応を加えました。
  * ① サンプルソースconvertTable中の「Aｱあ亜高」はx-JIS0208またはJIS_X0201に直接に変換できるので、
