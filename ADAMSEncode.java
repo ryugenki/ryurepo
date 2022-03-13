@@ -17,7 +17,7 @@ import java.util.Map;
  *   x-JIS0208でエンコードするかと振り分けるためのメソッドisHankakuを用意しました。
  *
  */
-
+ああ
 public class ADAMSEncode {
 	
 	public static void main(String[] args) throws Exception {
