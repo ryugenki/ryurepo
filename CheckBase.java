@@ -12,9 +12,7 @@ public abstract class CheckBase {
 	public CheckBase(String json) {
 		this.json = new JSONObject(json);
 	}
-    zzzzz
-    ppppp
-    iiiii
+jjjjj
     
     public abstract List<String> formatCheck(JSONObject json) throws Exception;
 }
