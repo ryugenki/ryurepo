@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.List;
 
 import org.json.JSONObject;
-
+import 
 public class Check0003Impl extends CheckBase{
 	
 	public Check0003Impl(String json) {
@@ -38,7 +38,7 @@ public class Check0003Impl extends CheckBase{
 		
 		// yyyyyy
 		
-		
+		//zzzzz
 		return errorsList;
 		
 	}
